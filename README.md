@@ -24,6 +24,22 @@ From the below snippets of the Data Analyzed it can be interpreted that
 - In 2017 11 out of 12 stocks have given postive return whereas in 2018 performance of the stocks has been declined with an exception of stocks ENPH and RUN. 
 - Based on the outcome except ENPH and RUN other stocks are not a good option for long term investment.
 
+**2017 Stock Analysis Data after Refactoring**
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+
+**2018 Stock Analysis Data after Refactoring**
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
 
-
+### Summary
+#### Pros
+  - Refactoring of the code gives a readable and understandable code
+  - It gives Less Execution time 
+  - Bugs can be identified easily as the code is structured.
+#### Cons
+ - It is tedious to refactor the code than to write from the scratch
+ - As it is time consuming delivery timeline can be impacted
+ 
+ ### Conclusion after Refactoring the Stock Analysis code
+  - After refactoring the code the execution time has been drastically decreased from nearly 0.7 seconds to 0.1 seconds. This gives a major advantage when there are multiple programs running sharing the same CPU time. However it took same amount of time to refactor the code as it would have taken to write the code from the scratch
+  
