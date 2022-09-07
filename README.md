@@ -19,7 +19,11 @@ This is achieved through *Refactoring of the VBA code*.
 
 ### Results
 
-From the below data
+From the below snippets of the Data Analyzed it can be interpreted that
+
+- In 2017 11 out of 12 stocks have given postive return whereas in 2018 performance of the stocks has been declined with an exception of stocks ENPH and RUN. 
+- Based on the outcome except ENPH and RUN other stocks are not a good option for long term investment.
+
 
 
 
